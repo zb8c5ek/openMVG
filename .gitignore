@@ -14,3 +14,5 @@ build*
 docs/openmvg.pdf
 cmake-build*
 .idea
+tutorial_out
+ImageDataset_SceauxCastle
